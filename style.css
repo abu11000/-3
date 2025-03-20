@@ -1,0 +1,68 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: black;
+    
+}
+header div{
+    width: 350px;
+}
+a{
+    text-decoration: none;
+    color: #fff
+}
+.trade{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cart{
+    display: flex;
+    justify-content: space-around;
+}
+.bg{
+    background-image: url(./1.png);
+    height: 875px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+main img{
+    width: 679px;
+    height: 454px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+section img{
+    width: 1280px;
+    height: 964px;
+    left: 150px;
+    position: relative;
+    top: 100px;
+}
+section h1{
+    font-size: 64px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+}
+section{
+    background: gray;
+    margin-top: -250px;
+    height: 1350px;
+}
+.email{
+    height: 636px;
+    width: 1500px;
+}
+.map{
+    height: 636px;
+    width: 1500px;
+    margin-top: -15px;
+}
+footer img{
+    width: 1500px;
+    margin-top: -15px;
+}
